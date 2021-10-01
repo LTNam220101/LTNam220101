@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LTNam220101
-- 🌱 I’m currently learning Computer Scient in Bach Khoa
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m LTNam
+- 🌱 I’m now a 3'rd year Computer Scient in Bach Khoa
+- 💞️ KISS
 - 📫 How to reach me Mail: namluong220101@gmail.com,
                      FaceBook: Lương Thái Nam
 
